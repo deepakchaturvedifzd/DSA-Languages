@@ -1,0 +1,7 @@
+* Struct are by default public while Classes are by default private. 
+
+* The way of inheritance is also different in both.
+
+* So if you want complete OOP then prefer Classes for data hiding.
+
+* In simple programs use struct.
