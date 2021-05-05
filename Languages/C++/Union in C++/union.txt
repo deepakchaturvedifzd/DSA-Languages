@@ -1,0 +1,11 @@
+Union :
+
+looks similar to struct ... Access method is also same.
+But the size of union is the largest data type inside it.
+On same memory location the elements exist .... So they contain the same value.
+
+It is used in Data punning.
+
+Struct :
+
+On the other hand structure need memory alignment.
