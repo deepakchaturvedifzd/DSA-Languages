@@ -14,6 +14,6 @@ int main()
     cout<<t.x<<" "<<t.y<<endl;
     t.y=2005;
     cout<<t.x<<" "<<t.y<<endl;
-
+    cout<<sizeof(t);
     return 0;
 }
